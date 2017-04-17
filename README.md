@@ -9,3 +9,4 @@ installation of the Visual C++ runtimes, MPI implementation, and Python.
 
 See software documentation at https://institutefordiseasemodeling.github.io/EMOD/training/index.html.
 
+<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
